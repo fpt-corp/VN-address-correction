@@ -1,0 +1,703 @@
+mai châu	hòa bình
+quận 5|5|q5	hồ chí minh
+cầu kè	trà vinh
+ứng hòa	hà nội
+hòa an	cao bằng
+bắc ninh	bắc ninh
+thống nhất	đồng nai
+lai châu	lai châu
+quận 8|8|q8	hồ chí minh
+lang chánh	thanh hóa
+đống đa	hà nội
+thới lai	cần thơ
+bố trạch	quảng bình
+đắk tô	kon tum
+hai bà trưng	hà nội
+trạm tấu	yên bái
+dĩ an	bình dương
+phú quốc	kiên giang
+phước sơn	quảng nam
+đức linh	bình thuận
+hải lăng	quảng trị
+buôn hồ	đắk lắk
+thái bình	thái bình
+ninh bình	ninh bình
+đăk pơ	gia lai
+quận 3|3|q3	hồ chí minh
+phúc thọ	hà nội
+krông pa	gia lai
+bá thước	thanh hóa
+đông hòa	phú yên
+an phú	an giang
+tuyên hóa	quảng bình
+phú bình	thái nguyên
+xuân trường	nam định
+bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
+bắc sơn	lạng sơn
+tuy hòa	phú yên
+đông giang	quảng nam
+long biên	hà nội
+yên mỹ	hưng yên
+thanh xuân	hà nội
+hải châu	đà nẵng
+mường tè	lai châu
+cái răng	cần thơ
+hoàng su phì	hà giang
+đồng văn	hà giang
+đồng xuân	phú yên
+hòa bình	hòa bình
+thuận châu	sơn la
+cao lộc	lạng sơn
+yên thành	nghệ an
+tân thành	bà rịa vũng tàu|bà rịa|vũng tàu
+mai sơn	sơn la
+can lộc	hà tĩnh
+yên bái	yên bái
+sìn hồ	lai châu
+mỹ xuyên	sóc trăng
+yên bình	yên bái
+đà lạt	lâm đồng
+gò công tây	tiền giang
+bình thủy	cần thơ
+sông hinh	phú yên
+krông bông	đắk lắk
+phổ yên	thái nguyên
+an lão	hải phòng
+gò quao	kiên giang
+krông a na	đắk lắk
+thanh oai	hà nội
+trà lĩnh	cao bằng
+mường ảng	điện biên
+thanh sơn	phú thọ
+cái nước	cà mau
+đô lương	nghệ an
+hưng hà	thái bình
+tân trụ	long an
+hòa bình	bạc liêu
+cẩm thủy	thanh hóa
+tánh linh	bình thuận
+nam trực	nam định
+phú thiện	gia lai
+mường nhé	điện biên
+gò dầu	tây ninh
+trực ninh	nam định
+phước long	bạc liêu
+châu thành	bến tre
+bình minh	vĩnh long
+nam sách	hải dương
+long khánh	đồng nai
+hiệp đức	quảng nam
+tây sơn	bình định
+bình giang	hải dương
+hồng ngự	đồng tháp
+thái hòa	nghệ an
+thủy nguyên	hải phòng
+hải dương	hải dương
+con cuông	nghệ an
+quận 11|11|q11	hồ chí minh
+đồng xoài	bình phước
+cai lậy	tiền giang
+đắk song	đắk nông
+lâm thao	phú thọ
+hạ lang	cao bằng
+long phú	sóc trăng
+thạnh phú	bến tre
+giao thủy	nam định
+u minh	cà mau
+bắc tân uyên	bình dương
+gia viễn	ninh bình
+chư păh	gia lai
+gò công	tiền giang
+trà ôn	vĩnh long
+long mỹ	hậu giang
+vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
+đồng phú	bình phước
+thái thụy	thái bình
+cư m'gar	đắk lắk
+ninh hải	ninh thuận
+tân sơn	phú thọ
+tân hồng	đồng tháp
+tu mơ rông	kon tum
+lộc ninh	bình phước
+nghĩa đàn	nghệ an
+bảo lâm	cao bằng
+phú lương	thái nguyên
+trà cú	trà vinh
+lai vung	đồng tháp
+đại lộc	quảng nam
+tiên phước	quảng nam
+từ liêm|nam từ liêm	hà nội
+đa krông	quảng trị
+châu thành	hậu giang
+sốp cộp	sơn la
+hải an	hải phòng
+yên mô	ninh bình
+lạc sơn	hòa bình
+m'đrắk	đắk lắk
+điện biên phủ	điện biên
+cái bè	tiền giang
+ayun pa	gia lai
+thanh miện	hải dương
+tĩnh gia	thanh hóa
+cù lao dung	sóc trăng
+nha trang	khánh hòa
+hoành bồ	quảng ninh
+sông công	thái nguyên
+đắk hà	kon tum
+cát hải	hải phòng
+hải hậu	nam định
+thiệu hóa	thanh hóa
+như xuân	thanh hóa
+krông nô	đắk nông
+đà bắc	hòa bình
+quỳnh nhai	sơn la
+bạc liêu	bạc liêu
+mang thít	vĩnh long
+tuyên quang	tuyên quang
+uông bí	quảng ninh
+quốc oai	hà nội
+nam giang	quảng nam
+điện biên	điện biên
+mộc châu	sơn la
+bắc mê	hà giang
+ngân sơn	bắc kạn
+thạnh hóa	long an
+tiên lãng	hải phòng
+quảng yên	quảng ninh
+minh long	quảng ngãi
+phụng hiệp	hậu giang
+móng cái	quảng ninh
+phú thọ	phú thọ
+bình xuyên	vĩnh phúc
+ninh giang	hải dương
+hàm tân	bình thuận
+la gi	bình thuận
+sông mã	sơn la
+tư nghĩa	quảng ngãi
+châu thành	trà vinh
+quế võ	bắc ninh
+cam lâm	khánh hòa
+nhà bè	hồ chí minh
+thạch thất	hà nội
+quận 1|1|q1	hồ chí minh
+tiên du	bắc ninh
+hoài nhơn	bình định
+ia pa	gia lai
+đắk r'lấp	đắk nông
+vĩnh long	vĩnh long
+tuy an	phú yên
+lê chân	hải phòng
+cư kuin	đắk lắk
+đồng hỷ	thái nguyên
+mỹ hào	hưng yên
+mường khương	lào cai
+xín mần	hà giang
+gia nghĩa	đắk nông
+ba tơ	quảng ngãi
+đạ huoai	lâm đồng
+phú nhuận	hồ chí minh
+ô môn	cần thơ
+pác nặm	bắc kạn
+đông hải	bạc liêu
+lục ngạn	bắc giang
+lập thạch	vĩnh phúc
+rạch giá	kiên giang
+lâm hà	lâm đồng
+cầu ngang	trà vinh
+nghi lộc	nghệ an
+hàm thuận bắc	bình thuận
+hưng nguyên	nghệ an
+đông hà	quảng trị
+quy nhơn	bình định
+thanh chương	nghệ an
+nam trà my	quảng nam
+kiến xương	thái bình
+sông lô	vĩnh phúc
+hoàn kiếm	hà nội
+đức thọ	hà tĩnh
+triệu phong	quảng trị
+kỳ sơn	hòa bình
+lộc bình	lạng sơn
+long hồ	vĩnh long
+tân phú	hồ chí minh
+lâm bình	tuyên quang
+sa thầy	kon tum
+chư prông	gia lai
+tam đường	lai châu
+mường lay	điện biên
+hòn đất	kiên giang
+chợ mới	bắc kạn
+việt yên	bắc giang
+sơn hà	quảng ngãi
+thủ dầu một	bình dương
+thanh hà	hải dương
+vụ bản	nam định
+chợ lách	bến tre
+bình đại	bến tre
+gia lộc	hải dương
+quảng xương	thanh hóa
+vũng liêm	vĩnh long
+nguyên bình	cao bằng
+phù mỹ	bình định
+tân an	long an
+thanh hóa	thanh hóa
+khánh vĩnh	khánh hòa
+định quán	đồng nai
+tân uyên	lai châu
+bù đăng	bình phước
+phú ninh	quảng nam
+hà tiên	kiên giang
+thuận thành	bắc ninh
+tịnh biên	an giang
+hữu lũng	lạng sơn
+châu thành	long an
+quận 2|2|q2	hồ chí minh
+na hang	tuyên quang
+châu thành	tiền giang
+tây hồ	hà nội
+thạch an	cao bằng
+thuận bắc	ninh thuận
+tháp mười	đồng tháp
+chợ đồn	bắc kạn
+anh sơn	nghệ an
+trảng bom	đồng nai
+châu thành	đồng tháp
+cao lãnh	đồng tháp
+hòa thành	tây ninh
+chiêm hóa	tuyên quang
+cao phong	hòa bình
+đức hòa	long an
+dương kinh	hải phòng
+thủ thừa	long an
+sông cầu	phú yên
+hạ long	quảng ninh
+long điền	bà rịa vũng tàu|bà rịa|vũng tàu
+duy tiên	hà nam
+thanh khê	đà nẵng
+quỳnh lưu	nghệ an
+tam nông	phú thọ
+lương tài	bắc ninh
+kỳ sơn	nghệ an
+ninh sơn	ninh thuận
+chư pưh	gia lai
+bắc kạn	bắc kạn
+ba chẽ	quảng ninh
+bát xát	lào cai
+thường xuân	thanh hóa
+diên khánh	khánh hòa
+thới bình	cà mau
+năm căn	cà mau
+sơn hòa	phú yên
+võ nhai	thái nguyên
+bảo thắng	lào cai
+mèo vạc	hà giang
+vân canh	bình định
+đơn dương	lâm đồng
+tuy phước	bình định
+tứ kỳ	hải dương
+ninh phước	ninh thuận
+đông sơn	thanh hóa
+phan rang-tháp chàm	ninh thuận
+bến lức	long an
+vĩnh hưng	long an
+hà trung	thanh hóa
+tân phước	tiền giang
+di linh	lâm đồng
+sa pa	lào cai
+bắc quang	hà giang
+tuy phong	bình thuận
+tân kỳ	nghệ an
+đức trọng	lâm đồng
+bình thạnh	hồ chí minh
+quận 9|9|q9	hồ chí minh
+định hóa	thái nguyên
+cần giờ	hồ chí minh
+giang thành	kiên giang
+hoàng mai	hà nội
+yên sơn	tuyên quang
+bảo yên	lào cai
+mường chà	điện biên
+thăng bình	quảng nam
+đắk mil	đắk nông
+mỏ cày nam	bến tre
+hớn quản	bình phước
+bảo lâm	lâm đồng
+quảng ngãi	quảng ngãi
+đình lập	lạng sơn
+vị thanh	hậu giang
+bình gia	lạng sơn
+vân đồn	quảng ninh
+thanh ba	phú thọ
+phú xuyên	hà nội
+phú hòa	phú yên
+phước long	bình phước
+kế sách	sóc trăng
+mê linh	hà nội
+chư sê	gia lai
+tây hòa	phú yên
+thoại sơn	an giang
+bỉm sơn	thanh hóa
+đông hưng	thái bình
+đông anh	hà nội
+việt trì	phú thọ
+mộc hóa	long an
+trùng khánh	cao bằng
+duy xuyên	quảng nam
+cư jút	đắk nông
+mỹ tho	tiền giang
+kiến tường	long an
+phục hòa	cao bằng
+tiên lữ	hưng yên
+bù đốp	bình phước
+vĩnh cửu	đồng nai
+yên lập	phú thọ
+mỹ lộc	nam định
+ninh kiều	cần thơ
+bình chánh	hồ chí minh
+lục yên	yên bái
+tân bình	hồ chí minh
+kông chro	gia lai
+cần giuộc	long an
+trần văn thời	cà mau
+xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
+ba đình	hà nội
+u minh thượng	kiên giang
+châu thành	an giang
+bình tân	hồ chí minh
+tam điệp	ninh bình
+tam đảo	vĩnh phúc
+si ma cai	lào cai
+mộ đức	quảng ngãi
+phong điền	cần thơ
+châu đức	bà rịa vũng tàu|bà rịa|vũng tàu
+tủa chùa	điện biên
+yên phong	bắc ninh
+quảng điền	thừa thiên huế
+châu đốc	an giang
+hà đông	hà nội
+ngọc lặc	thanh hóa
+vị thủy	hậu giang
+kim bảng	hà nam
+hương khê	hà tĩnh
+tân biên	tây ninh
+ninh hòa	khánh hòa
+vũ thư	thái bình
+nậm pồ	điện biên
+đắk glei	kon tum
+trảng bàng	tây ninh
+thạch hà	hà tĩnh
+bù gia mập	bình phước
+cẩm mỹ	đồng nai
+cần đước	long an
+quận 10|10|q10	hồ chí minh
+ý yên	nam định
+kiến an	hải phòng
+vĩnh thạnh	bình định
+tân phú	đồng nai
+phú riềng	bình phước
+kbang	gia lai
+bình sơn	quảng ngãi
+krông pắc	đắk lắk
+than uyên	lai châu
+ba bể	bắc kạn
+yên lạc	vĩnh phúc
+quỳnh phụ	thái bình
+a lưới	thừa thiên huế
+sơn la	sơn la
+phù cừ	hưng yên
+nam đông	thừa thiên huế
+hà giang	hà giang
+văn yên	yên bái
+đăk glong	đắk nông
+thạch thành	thanh hóa
+ia grai	gia lai
+hải hà	quảng ninh
+mỹ tú	sóc trăng
+tân châu	tây ninh
+phủ lý	hà nam
+hòa vang	đà nẵng
+châu thành a	hậu giang
+nông cống	thanh hóa
+thanh bình	đồng tháp
+sơn động	bắc giang
+pleiku	gia lai
+chi lăng	lạng sơn
+nga sơn	thanh hóa
+kon plông	kon tum
+hoa lư	ninh bình
+dương minh châu	tây ninh
+hà quảng	cao bằng
+nam đàn	nghệ an
+hướng hóa	quảng trị
+ea h'leo	đắk lắk
+tân thạnh	long an
+đại từ	thái nguyên
+quang bình	hà giang
+thường tín	hà nội
+nghĩa hưng	nam định
+phú quý	bình thuận
+nậm nhùn	lai châu
+đầm hà	quảng ninh
+hàm yên	tuyên quang
+sơn trà	đà nẵng
+an biên	kiên giang
+từ sơn	bắc ninh
+mù cang chải	yên bái
+văn lâm	hưng yên
+kim bôi	hòa bình
+sơn tây	quảng ngãi
+văn bàn	lào cai
+quỳ châu	nghệ an
+kiên lương	kiên giang
+phan thiết	bình thuận
+như thanh	thanh hóa
+gia lâm	hà nội
+bắc hà	lào cai
+lạc thủy	hòa bình
+đạ tẻh	lâm đồng
+hưng yên	hưng yên
+vĩnh thuận	kiên giang
+càng long	trà vinh
+thọ xuân	thanh hóa
+văn quan	lạng sơn
+an dương	hải phòng
+lộc hà	hà tĩnh
+ân thi	hưng yên
+gò công đông	tiền giang
+tiên yên	quảng ninh
+thái nguyên	thái nguyên
+đức phổ	quảng ngãi
+vị xuyên	hà giang
+hạ hòa	phú thọ
+vĩnh lợi	bạc liêu
+krông năng	đắk lắk
+châu thành	kiên giang
+quảng ninh	quảng bình
+hoài ân	bình định
+chương mỹ	hà nội
+nho quan	ninh bình
+thanh liêm	hà nam
+hương trà	thừa thiên huế
+tri tôn	an giang
+quận 4|4|q4	hồ chí minh
+hồng dân	bạc liêu
+đức huệ	long an
+vĩnh tường	vĩnh phúc
+đồ sơn	hải phòng
+tây ninh	tây ninh
+phong thổ	lai châu
+buôn ma thuột	đắk lắk
+tân uyên	bình dương
+chợ mới	an giang
+sơn dương	tuyên quang
+mường la	sơn la
+buôn đôn	đắk lắk
+long thành	đồng nai
+ngọc hiển	cà mau
+cẩm phả	quảng ninh
+vạn ninh	khánh hòa
+đồng hới	quảng bình
+ngã năm	sóc trăng
+phù cát	bình định
+điện bàn	quảng nam
+phú vang	thừa thiên huế
+bình tân	vĩnh long
+hoằng hóa	thanh hóa
+sơn tây	hà nội
+bảo lạc	cao bằng
+hà tĩnh	hà tĩnh
+hậu lộc	thanh hóa
+ngã bảy	hậu giang
+vĩnh thạnh	cần thơ
+lạng giang	bắc giang
+quận 12|12|q12	hồ chí minh
+khoái châu	hưng yên
+đan phượng	hà nội
+phú tân	cà mau
+quế sơn	quảng nam
+giá rai	bạc liêu
+giồng riềng	kiên giang
+lấp vò	đồng tháp
+gia bình	bắc ninh
+quảng trị	quảng trị
+chí linh	hải dương
+chợ gạo	tiền giang
+nhơn trạch	đồng nai
+giồng trôm	bến tre
+bàu bàng	bình dương
+hồng lĩnh	hà tĩnh
+kiến thụy	hải phòng
+na rì	bắc kạn
+an khê	gia lai
+hội an	quảng nam
+trà vinh	trà vinh
+vĩnh linh	quảng trị
+châu phú	an giang
+hương sơn	hà tĩnh
+tràng định	lạng sơn
+tương dương	nghệ an
+phú tân	an giang
+cẩm lệ	đà nẵng
+đông triều	quảng ninh
+ba đồn	quảng bình
+sa đéc	đồng tháp
+trấn yên	yên bái
+vĩnh yên	vĩnh phúc
+tiền hải	thái bình
+vĩnh bảo	hải phòng
+cửa lò	nghệ an
+bắc bình	bình thuận
+bác ái	ninh thuận
+bắc giang	bắc giang
+yên châu	sơn la
+tân châu	an giang
+hoàng mai	nghệ an
+đăk đoa	gia lai
+tây trà	quảng ngãi
+yên thủy	hòa bình
+quỳ hợp	nghệ an
+mang yang	gia lai
+thanh thủy	phú thọ
+hóc môn	hồ chí minh
+minh hóa	quảng bình
+bảo lộc	lâm đồng
+khánh sơn	khánh hòa
+ngũ hành sơn	đà nẵng
+nghĩa lộ	yên bái
+cô tô	quảng ninh
+bình long	bình phước
+lạng sơn	lạng sơn
+long xuyên	an giang
+liên chiểu	đà nẵng
+thuận an	bình dương
+sóc trăng	sóc trăng
+trần đề	sóc trăng
+kim thành	hải dương
+châu thành	tây ninh
+lý nhân	hà nam
+kim động	hưng yên
+ea súp	đắk lắk
+tân yên	bắc giang
+cẩm xuyên	hà tĩnh
+thốt nốt	cần thơ
+yên dũng	bắc giang
+thuận nam	ninh thuận
+nghĩa hành	quảng ngãi
+bến cát	bình dương
+văn lãng	lạng sơn
+bình lục	hà nam
+sơn tịnh	quảng ngãi
+tiểu cần	trà vinh
+quan hóa	thanh hóa
+kiên hải	kiên giang
+quản bạ	hà giang
+an lão	bình định
+mỏ cày bắc	bến tre
+diễn châu	nghệ an
+ia h' drai	kon tum
+yên khánh	ninh bình
+tân phú đông	tiền giang
+lắk	đắk lắk
+dầu tiếng	bình dương
+thủ đức	hồ chí minh
+vinh	nghệ an
+củ chi	hồ chí minh
+chơn thành	bình phước
+gio linh	quảng trị
+ngọc hồi	kon tum
+quan sơn	thanh hóa
+vĩnh châu	sóc trăng
+châu thành	sóc trăng
+đức cơ	gia lai
+cam ranh	khánh hòa
+hồng bàng	hải phòng
+tuần giáo	điện biên
+tam nông	đồng tháp
+quảng uyên	cao bằng
+tam kỳ	quảng nam
+núi thành	quảng nam
+xuân lộc	đồng nai
+ngô quyền	hải phòng
+huế	thừa thiên huế
+bạch thông	bắc kạn
+cẩm giàng	hải dương
+ea kar	đắk lắk
+thạnh trị	sóc trăng
+quận 6|6|q6	hồ chí minh
+sầm sơn	thanh hóa
+nam định	nam định
+krông búk	đắk lắk
+nông sơn	quảng nam
+hoài đức	hà nội
+lục nam	bắc giang
+nghi xuân	hà tĩnh
+sóc sơn	hà nội
+an minh	kiên giang
+duyên hải	trà vinh
+kon rẫy	kon tum
+đầm dơi	cà mau
+cát tiên	lâm đồng
+gò vấp	hồ chí minh
+tân hiệp	kiên giang
+tân lạc	hòa bình
+đoan hùng	phú thọ
+bình liêu	quảng ninh
+phú lộc	thừa thiên huế
+ba vì	hà nội
+lý sơn	quảng ngãi
+bắc yên	sơn la
+quận 7|7|q7	hồ chí minh
+văn giang	hưng yên
+phúc yên	vĩnh phúc
+yên định	thanh hóa
+văn chấn	yên bái
+triệu sơn	thanh hóa
+trà bồng	quảng ngãi
+cờ đỏ	cần thơ
+bến cầu	tây ninh
+vũ quang	hà tĩnh
+bến tre	bến tre
+thông nông	cao bằng
+cẩm khê	phú thọ
+cam lộ	quảng trị
+tây giang	quảng nam
+yên minh	hà giang
+hiệp hòa	bắc giang
+hương thủy	thừa thiên huế
+tam bình	vĩnh long
+kon tum	kon tum
+bắc trà my	quảng nam
+vĩnh lộc	thanh hóa
+kỳ anh	hà tĩnh
+tuy đức	đắk nông
+vân hồ	sơn la
+kim sơn	ninh bình
+an nhơn	bình định
+phú giáo	bình dương
+hàm thuận nam	bình thuận
+tân hưng	long an
+ba tri	bến tre
+phù yên	sơn la
+lạc dương	lâm đồng
+thanh trì	hà nội
+trường sa	khánh hòa
+biên hòa	đồng nai
+tam dương	vĩnh phúc
+cầu giấy	hà nội
+điện biên đông	điện biên
+đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
+lào cai	lào cai
+cà mau	cà mau
+kinh môn	hải dương
+từ liêm|bắc từ liêm	hà nội
+lệ thủy	quảng bình
+mường lát	thanh hóa
+quế phong	nghệ an
+mỹ đức	hà nội
+lương sơn	hòa bình
+đam rông	lâm đồng
+phong điền	thừa thiên huế
+quảng trạch	quảng bình
+yên thế	bắc giang
+phù ninh	phú thọ
+cao bằng	cao bằng
