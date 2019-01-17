@@ -1,6 +1,6 @@
 import os
 from collections import defaultdict
-from .string_distance import StringDistance
+from .utils import StringDistance, extract_digit
 
 class AddressCorrection:
     '''
@@ -55,30 +55,16 @@ class AddressCorrection:
                 underward, ward, district, province = entity.split('\t')
                 self.underwards[(province, district, ward)].append(underward)
 
-    def provinces_correction(self, phrase, nb_candidates=3):
-        '''
-        Compare phrase with all provinces
-        Return nb_candidate best match provinces
-        '''
-        if nb_candidates <= 0:
-            raise ValueError("Number of candidate must be positive integer")
-        
-        # store candidate with word and distance pairs
-        candidates = [(None, 1000)] * nb_candidates
-        for province in self.provinces:
-            distance = self.string_distance.distance(phrase, province)
-            if distance < candidates[-1][1]:
-                candidates[-1] = (province, distance)
-                candidates.sort(key=lambda x:x[1])
-        return candidates
-    
     def correct(self, phrase, correct_phrases, nb_candidates=2, distance_threshold=4):
         candidates = [(None, distance_threshold)] * nb_candidates
         max_diff_length = distance_threshold
         for correct_phrase in correct_phrases:
             if abs(len(phrase) - len(correct_phrase)) >= max_diff_length:
                 continue
-            distance = self.string_distance.distance(phrase, correct_phrase)
+            if extract_digit(correct_phrase) != extract_digit(phrase):
+                distance = 10
+            else:
+                distance = self.string_distance.distance(phrase, correct_phrase)
             if distance < candidates[-1][1]:
                 candidates[-1] = (correct_phrase, distance)
                 candidates.sort(key=lambda x:x[1])
@@ -287,7 +273,7 @@ class AddressCorrection:
                     result_distance = result_distance_candidate
                     result = result_candidate
                 if index_province > 0:
-                    if self.string_distance.distance(tokens[index_province-1], 'tp') < 2:
+                    if tokens[index_province-1] == 'tp':
                         if index_province <= 1:
                             result = 'tp ' + province
                             result_distance = distance_province

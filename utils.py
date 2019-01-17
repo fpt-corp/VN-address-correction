@@ -35,3 +35,10 @@ class StringDistance:
                 v0[j] = v1[j]
                 
         return v1[len(target)]
+
+def extract_digit(text: str):
+    res = ''
+    for char in text:
+        if char.isdigit():
+            res += char
+    return res
