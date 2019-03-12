@@ -113,6 +113,7 @@ class AddressCorrection:
                         new_wards_index = wards_index - 1
                         return new_wards_index, prefix_wards, distance
                     d = self.string_distance.distance(tokens[wards_index - 1], 'phường')
+                    # print(test)
                     if d < 10:
                         prefix_wards = 'phường'
                         new_wards_index = wards_index - 1
@@ -349,9 +350,9 @@ class AddressCorrection:
         if not isinstance(address, str):
             raise ValueError('Address must be a string')
         tokens = address.split()
-        prefix_number = ('số', 'đội', 'xóm', 'khu', 'ngách', 'đường', 'tổ', 'ngõ')
+        prefix_number = ('số', 'đội', 'xóm', 'khu', 'ngách', 'đường', 'tổ', 'ngõ', 'phường')
         for i in range(1, min(5, len(tokens))):
-            if not tokens[i].isalpha():
+            if not tokens[i].isalpha() and 'p' not in tokens[i]:
                 corrected_token = self.correct(tokens[i-1], prefix_number, nb_candidates=1, distance_threshold=50)[0]
                 if corrected_token[0] is not None:
                     tokens[i-1] = corrected_token[0]
