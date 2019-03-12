@@ -3,7 +3,7 @@ quảng ninh
 đắk nông
 bà rịa
 tuyên quang
-hà nội
+hà nội|hn
 hà giang
 đắk lắk
 lai châu
@@ -19,9 +19,9 @@ tây ninh
 bạc liêu
 bắc ninh
 hà nam
-đà nẵng
+đà nẵng|đn
 hậu giang
-hồ chí minh
+hồ chí minh|hcm
 vũng tàu
 thái nguyên
 nam định
@@ -62,4 +62,5 @@ lâm đồng
 thanh hóa
 hòa bình
 quảng bình
-hải phòng
+hải phòng|hp
+hà tây

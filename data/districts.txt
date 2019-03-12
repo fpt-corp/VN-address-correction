@@ -1,18 +1,18 @@
 mai châu	hòa bình
-quận 5|5|q5	hồ chí minh
+quận 5|5|q5	hồ chí minh|hcm
 cầu kè	trà vinh
-ứng hòa	hà nội
+ứng hòa|ứh	hà nội|hn
 hòa an	cao bằng
 bắc ninh	bắc ninh
 thống nhất	đồng nai
 lai châu	lai châu
-quận 8|8|q8	hồ chí minh
+quận 8|8|q8	hồ chí minh|hcm
 lang chánh	thanh hóa
-đống đa	hà nội
+đống đa|đđ	hà nội|hn
 thới lai	cần thơ
 bố trạch	quảng bình
 đắk tô	kon tum
-hai bà trưng	hà nội
+hai bà trưng|hbt	hà nội|hn
 trạm tấu	yên bái
 dĩ an	bình dương
 phú quốc	kiên giang
@@ -23,8 +23,8 @@ buôn hồ	đắk lắk
 thái bình	thái bình
 ninh bình	ninh bình
 đăk pơ	gia lai
-quận 3|3|q3	hồ chí minh
-phúc thọ	hà nội
+quận 3|3|q3	hồ chí minh|hcm
+phúc thọ|pt	hà nội|hn
 krông pa	gia lai
 bá thước	thanh hóa
 đông hòa	phú yên
@@ -36,10 +36,10 @@ bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
 bắc sơn	lạng sơn
 tuy hòa	phú yên
 đông giang	quảng nam
-long biên	hà nội
+long biên|lb	hà nội|hn
 yên mỹ	hưng yên
-thanh xuân	hà nội
-hải châu	đà nẵng
+thanh xuân|tx	hà nội|hn
+hải châu|hc	đà nẵng|đn
 mường tè	lai châu
 cái răng	cần thơ
 hoàng su phì	hà giang
@@ -62,10 +62,10 @@ bình thủy	cần thơ
 sông hinh	phú yên
 krông bông	đắk lắk
 phổ yên	thái nguyên
-an lão	hải phòng
+an lão|al	hải phòng|hp
 gò quao	kiên giang
 krông a na	đắk lắk
-thanh oai	hà nội
+thanh oai|to	hà nội|hn
 trà lĩnh	cao bằng
 mường ảng	điện biên
 thanh sơn	phú thọ
@@ -91,10 +91,10 @@ tây sơn	bình định
 bình giang	hải dương
 hồng ngự	đồng tháp
 thái hòa	nghệ an
-thủy nguyên	hải phòng
+thủy nguyên|tn	hải phòng|hp
 hải dương	hải dương
 con cuông	nghệ an
-quận 11|11|q11	hồ chí minh
+quận 11|11|q11	hồ chí minh|hcm
 đồng xoài	bình phước
 cai lậy	tiền giang
 đắk song	đắk nông
@@ -126,11 +126,11 @@ trà cú	trà vinh
 lai vung	đồng tháp
 đại lộc	quảng nam
 tiên phước	quảng nam
-từ liêm|nam từ liêm	hà nội
+từ liêm|nam từ liêm|tl|ntl	hà nội|hn
 đa krông	quảng trị
 châu thành	hậu giang
 sốp cộp	sơn la
-hải an	hải phòng
+hải an|ha	hải phòng|hp
 yên mô	ninh bình
 lạc sơn	hòa bình
 m'đrắk	đắk lắk
@@ -144,7 +144,7 @@ nha trang	khánh hòa
 hoành bồ	quảng ninh
 sông công	thái nguyên
 đắk hà	kon tum
-cát hải	hải phòng
+cát hải|ch	hải phòng|hp
 hải hậu	nam định
 thiệu hóa	thanh hóa
 như xuân	thanh hóa
@@ -155,14 +155,14 @@ bạc liêu	bạc liêu
 mang thít	vĩnh long
 tuyên quang	tuyên quang
 uông bí	quảng ninh
-quốc oai	hà nội
+quốc oai|qo	hà nội|hn
 nam giang	quảng nam
 điện biên	điện biên
 mộc châu	sơn la
 bắc mê	hà giang
 ngân sơn	bắc kạn
 thạnh hóa	long an
-tiên lãng	hải phòng
+tiên lãng|tl	hải phòng|hp
 quảng yên	quảng ninh
 minh long	quảng ngãi
 phụng hiệp	hậu giang
@@ -177,16 +177,16 @@ tư nghĩa	quảng ngãi
 châu thành	trà vinh
 quế võ	bắc ninh
 cam lâm	khánh hòa
-nhà bè	hồ chí minh
-thạch thất	hà nội
-quận 1|1|q1	hồ chí minh
+nhà bè|nb	hồ chí minh|hcm
+thạch thất|tt	hà nội|hn
+quận 1|1|q1	hồ chí minh|hcm
 tiên du	bắc ninh
 hoài nhơn	bình định
 ia pa	gia lai
 đắk r'lấp	đắk nông
 vĩnh long	vĩnh long
 tuy an	phú yên
-lê chân	hải phòng
+lê chân|lc	hải phòng|hp
 cư kuin	đắk lắk
 đồng hỷ	thái nguyên
 mỹ hào	hưng yên
@@ -195,7 +195,7 @@ xín mần	hà giang
 gia nghĩa	đắk nông
 ba tơ	quảng ngãi
 đạ huoai	lâm đồng
-phú nhuận	hồ chí minh
+phú nhuận|pn	hồ chí minh|hcm
 ô môn	cần thơ
 pác nặm	bắc kạn
 đông hải	bạc liêu
@@ -213,13 +213,13 @@ thanh chương	nghệ an
 nam trà my	quảng nam
 kiến xương	thái bình
 sông lô	vĩnh phúc
-hoàn kiếm	hà nội
+hoàn kiếm|hk	hà nội|hn
 đức thọ	hà tĩnh
 triệu phong	quảng trị
 kỳ sơn	hòa bình
 lộc bình	lạng sơn
 long hồ	vĩnh long
-tân phú	hồ chí minh
+tân phú|tp	hồ chí minh|hcm
 lâm bình	tuyên quang
 sa thầy	kon tum
 chư prông	gia lai
@@ -251,10 +251,10 @@ thuận thành	bắc ninh
 tịnh biên	an giang
 hữu lũng	lạng sơn
 châu thành	long an
-quận 2|2|q2	hồ chí minh
+quận 2|2|q2	hồ chí minh|hcm
 na hang	tuyên quang
 châu thành	tiền giang
-tây hồ	hà nội
+tây hồ|th	hà nội|hn
 thạch an	cao bằng
 thuận bắc	ninh thuận
 tháp mười	đồng tháp
@@ -267,13 +267,13 @@ hòa thành	tây ninh
 chiêm hóa	tuyên quang
 cao phong	hòa bình
 đức hòa	long an
-dương kinh	hải phòng
+dương kinh|dk	hải phòng|hp
 thủ thừa	long an
 sông cầu	phú yên
 hạ long	quảng ninh
 long điền	bà rịa vũng tàu|bà rịa|vũng tàu
 duy tiên	hà nam
-thanh khê	đà nẵng
+thanh khê|tk	đà nẵng|đn
 quỳnh lưu	nghệ an
 tam nông	phú thọ
 lương tài	bắc ninh
@@ -308,12 +308,12 @@ bắc quang	hà giang
 tuy phong	bình thuận
 tân kỳ	nghệ an
 đức trọng	lâm đồng
-bình thạnh	hồ chí minh
-quận 9|9|q9	hồ chí minh
+bình thạnh|bt	hồ chí minh|hcm
+quận 9|9|q9	hồ chí minh|hcm
 định hóa	thái nguyên
-cần giờ	hồ chí minh
+cần giờ|cg	hồ chí minh|hcm
 giang thành	kiên giang
-hoàng mai	hà nội
+hoàng mai|hm	hà nội|hn
 yên sơn	tuyên quang
 bảo yên	lào cai
 mường chà	điện biên
@@ -328,17 +328,17 @@ vị thanh	hậu giang
 bình gia	lạng sơn
 vân đồn	quảng ninh
 thanh ba	phú thọ
-phú xuyên	hà nội
+phú xuyên|px	hà nội|hn
 phú hòa	phú yên
 phước long	bình phước
 kế sách	sóc trăng
-mê linh	hà nội
+mê linh|ml	hà nội|hn
 chư sê	gia lai
 tây hòa	phú yên
 thoại sơn	an giang
 bỉm sơn	thanh hóa
 đông hưng	thái bình
-đông anh	hà nội
+đông anh|đa	hà nội|hn
 việt trì	phú thọ
 mộc hóa	long an
 trùng khánh	cao bằng
@@ -353,17 +353,17 @@ vĩnh cửu	đồng nai
 yên lập	phú thọ
 mỹ lộc	nam định
 ninh kiều	cần thơ
-bình chánh	hồ chí minh
+bình chánh|bc	hồ chí minh|hcm
 lục yên	yên bái
-tân bình	hồ chí minh
+tân bình|tb	hồ chí minh|hcm
 kông chro	gia lai
 cần giuộc	long an
 trần văn thời	cà mau
 xuyên mộc	bà rịa vũng tàu|bà rịa|vũng tàu
-ba đình	hà nội
+ba đình|bđ	hà nội|hn
 u minh thượng	kiên giang
 châu thành	an giang
-bình tân	hồ chí minh
+bình tân|bt	hồ chí minh|hcm
 tam điệp	ninh bình
 tam đảo	vĩnh phúc
 si ma cai	lào cai
@@ -374,7 +374,7 @@ tủa chùa	điện biên
 yên phong	bắc ninh
 quảng điền	thừa thiên huế
 châu đốc	an giang
-hà đông	hà nội
+hà đông|hđ	hà nội|hn
 ngọc lặc	thanh hóa
 vị thủy	hậu giang
 kim bảng	hà nam
@@ -389,9 +389,9 @@ thạch hà	hà tĩnh
 bù gia mập	bình phước
 cẩm mỹ	đồng nai
 cần đước	long an
-quận 10|10|q10	hồ chí minh
+quận 10|10|q10	hồ chí minh|hcm
 ý yên	nam định
-kiến an	hải phòng
+kiến an|ka	hải phòng|hp
 vĩnh thạnh	bình định
 tân phú	đồng nai
 phú riềng	bình phước
@@ -415,7 +415,7 @@ hải hà	quảng ninh
 mỹ tú	sóc trăng
 tân châu	tây ninh
 phủ lý	hà nam
-hòa vang	đà nẵng
+hòa vang|hv	đà nẵng|đn
 châu thành a	hậu giang
 nông cống	thanh hóa
 thanh bình	đồng tháp
@@ -433,13 +433,13 @@ ea h'leo	đắk lắk
 tân thạnh	long an
 đại từ	thái nguyên
 quang bình	hà giang
-thường tín	hà nội
+thường tín|tt	hà nội|hn
 nghĩa hưng	nam định
 phú quý	bình thuận
 nậm nhùn	lai châu
 đầm hà	quảng ninh
 hàm yên	tuyên quang
-sơn trà	đà nẵng
+sơn trà|st	đà nẵng|đn
 an biên	kiên giang
 từ sơn	bắc ninh
 mù cang chải	yên bái
@@ -451,7 +451,7 @@ quỳ châu	nghệ an
 kiên lương	kiên giang
 phan thiết	bình thuận
 như thanh	thanh hóa
-gia lâm	hà nội
+gia lâm|gl	hà nội|hn
 bắc hà	lào cai
 lạc thủy	hòa bình
 đạ tẻh	lâm đồng
@@ -460,7 +460,7 @@ vĩnh thuận	kiên giang
 càng long	trà vinh
 thọ xuân	thanh hóa
 văn quan	lạng sơn
-an dương	hải phòng
+an dương|ad	hải phòng|hp
 lộc hà	hà tĩnh
 ân thi	hưng yên
 gò công đông	tiền giang
@@ -474,16 +474,16 @@ krông năng	đắk lắk
 châu thành	kiên giang
 quảng ninh	quảng bình
 hoài ân	bình định
-chương mỹ	hà nội
+chương mỹ|cm	hà nội|hn
 nho quan	ninh bình
 thanh liêm	hà nam
 hương trà	thừa thiên huế
 tri tôn	an giang
-quận 4|4|q4	hồ chí minh
+quận 4|4|q4	hồ chí minh|hcm
 hồng dân	bạc liêu
 đức huệ	long an
 vĩnh tường	vĩnh phúc
-đồ sơn	hải phòng
+đồ sơn|đs	hải phòng|hp
 tây ninh	tây ninh
 phong thổ	lai châu
 buôn ma thuột	đắk lắk
@@ -503,16 +503,16 @@ phù cát	bình định
 phú vang	thừa thiên huế
 bình tân	vĩnh long
 hoằng hóa	thanh hóa
-sơn tây	hà nội
+sơn tây|st	hà nội|hn
 bảo lạc	cao bằng
 hà tĩnh	hà tĩnh
 hậu lộc	thanh hóa
 ngã bảy	hậu giang
 vĩnh thạnh	cần thơ
 lạng giang	bắc giang
-quận 12|12|q12	hồ chí minh
+quận 12|12|q12	hồ chí minh|hcm
 khoái châu	hưng yên
-đan phượng	hà nội
+đan phượng|đp	hà nội|hn
 phú tân	cà mau
 quế sơn	quảng nam
 giá rai	bạc liêu
@@ -526,7 +526,7 @@ nhơn trạch	đồng nai
 giồng trôm	bến tre
 bàu bàng	bình dương
 hồng lĩnh	hà tĩnh
-kiến thụy	hải phòng
+kiến thụy|kt	hải phòng|hp
 na rì	bắc kạn
 an khê	gia lai
 hội an	quảng nam
@@ -537,14 +537,14 @@ hương sơn	hà tĩnh
 tràng định	lạng sơn
 tương dương	nghệ an
 phú tân	an giang
-cẩm lệ	đà nẵng
+cẩm lệ|cl	đà nẵng|đn
 đông triều	quảng ninh
 ba đồn	quảng bình
 sa đéc	đồng tháp
 trấn yên	yên bái
 vĩnh yên	vĩnh phúc
 tiền hải	thái bình
-vĩnh bảo	hải phòng
+vĩnh bảo|vb	hải phòng|hp
 cửa lò	nghệ an
 bắc bình	bình thuận
 bác ái	ninh thuận
@@ -558,17 +558,17 @@ yên thủy	hòa bình
 quỳ hợp	nghệ an
 mang yang	gia lai
 thanh thủy	phú thọ
-hóc môn	hồ chí minh
+hóc môn|hm	hồ chí minh|hcm
 minh hóa	quảng bình
 bảo lộc	lâm đồng
 khánh sơn	khánh hòa
-ngũ hành sơn	đà nẵng
+ngũ hành sơn|nhs	đà nẵng|đn
 nghĩa lộ	yên bái
 cô tô	quảng ninh
 bình long	bình phước
 lạng sơn	lạng sơn
 long xuyên	an giang
-liên chiểu	đà nẵng
+liên chiểu|lc	đà nẵng|đn
 thuận an	bình dương
 sóc trăng	sóc trăng
 trần đề	sóc trăng
@@ -599,9 +599,9 @@ yên khánh	ninh bình
 tân phú đông	tiền giang
 lắk	đắk lắk
 dầu tiếng	bình dương
-thủ đức	hồ chí minh
+thủ đức|tđ	hồ chí minh|hcm
 vinh	nghệ an
-củ chi	hồ chí minh
+củ chi|cc	hồ chí minh|hcm
 chơn thành	bình phước
 gio linh	quảng trị
 ngọc hồi	kon tum
@@ -610,43 +610,43 @@ vĩnh châu	sóc trăng
 châu thành	sóc trăng
 đức cơ	gia lai
 cam ranh	khánh hòa
-hồng bàng	hải phòng
+hồng bàng|hb	hải phòng|hp
 tuần giáo	điện biên
 tam nông	đồng tháp
 quảng uyên	cao bằng
 tam kỳ	quảng nam
 núi thành	quảng nam
 xuân lộc	đồng nai
-ngô quyền	hải phòng
+ngô quyền|nq	hải phòng|hp
 huế	thừa thiên huế
 bạch thông	bắc kạn
 cẩm giàng	hải dương
 ea kar	đắk lắk
 thạnh trị	sóc trăng
-quận 6|6|q6	hồ chí minh
+quận 6|6|q6	hồ chí minh|hcm
 sầm sơn	thanh hóa
 nam định	nam định
 krông búk	đắk lắk
 nông sơn	quảng nam
-hoài đức	hà nội
+hoài đức|hđ	hà nội|hn
 lục nam	bắc giang
 nghi xuân	hà tĩnh
-sóc sơn	hà nội
+sóc sơn|ss	hà nội|hn
 an minh	kiên giang
 duyên hải	trà vinh
 kon rẫy	kon tum
 đầm dơi	cà mau
 cát tiên	lâm đồng
-gò vấp	hồ chí minh
+gò vấp|gv	hồ chí minh|hcm
 tân hiệp	kiên giang
 tân lạc	hòa bình
 đoan hùng	phú thọ
 bình liêu	quảng ninh
 phú lộc	thừa thiên huế
-ba vì	hà nội
+ba vì|bv	hà nội|hn
 lý sơn	quảng ngãi
 bắc yên	sơn la
-quận 7|7|q7	hồ chí minh
+quận 7|7|q7	hồ chí minh|hcm
 văn giang	hưng yên
 phúc yên	vĩnh phúc
 yên định	thanh hóa
@@ -679,21 +679,21 @@ tân hưng	long an
 ba tri	bến tre
 phù yên	sơn la
 lạc dương	lâm đồng
-thanh trì	hà nội
+thanh trì|tt	hà nội|hn
 trường sa	khánh hòa
 biên hòa	đồng nai
 tam dương	vĩnh phúc
-cầu giấy	hà nội
+cầu giấy|cg	hà nội|hn
 điện biên đông	điện biên
 đất đỏ	bà rịa vũng tàu|bà rịa|vũng tàu
 lào cai	lào cai
 cà mau	cà mau
 kinh môn	hải dương
-từ liêm|bắc từ liêm	hà nội
+từ liêm|bắc từ liêm|tl|btl	hà nội|hn
 lệ thủy	quảng bình
 mường lát	thanh hóa
 quế phong	nghệ an
-mỹ đức	hà nội
+mỹ đức|mđ	hà nội|hn
 lương sơn	hòa bình
 đam rông	lâm đồng
 phong điền	thừa thiên huế
@@ -701,3 +701,17 @@ quảng trạch	quảng bình
 yên thế	bắc giang
 phù ninh	phú thọ
 cao bằng	cao bằng
+hà đông	hà tây
+sơn tây	hà tây
+ba vì	hà tây
+phúc thọ	hà tây
+thạch thất	hà tây
+quốc oai	hà tây
+chương mỹ	hà tây
+đan phượng	hà tây
+Hoài đức	hà tây
+thanh oai	hà tây
+mỹ đức	hà tây
+ứng hoà	hà tây
+thường tín	hà tây
+phú xuyên	hà tây

@@ -2340,7 +2340,7 @@ lộc thanh	bảo lộc	lâm đồng
 pù pin	mai châu	hòa bình
 yên lỗ	bình gia	lạng sơn
 sơn bua	sơn tây	quảng ngãi
-phường 05|P5|phường 5	tân bình	hồ chí minh
+phường 05|P5|phường 5	tân bình|TB	hồ chí minh
 thạnh thới an	trần đề	sóc trăng
 hà hồi	thường tín	hà nội
 lịch hội thượng	trần đề	sóc trăng
@@ -2561,7 +2561,7 @@ qưới sơn	châu thành	bến tre
 diên hòa	diên khánh	khánh hòa
 mỹ thuận	bình tân	vĩnh long
 kim phú	yên sơn	tuyên quang
-phường 03|P3|phường 3	tân bình	hồ chí minh
+phường 03|P3|phường 3	tân bình|TB	hồ chí minh
 vĩnh hòa	u minh thượng	kiên giang
 vĩnh quang	vĩnh thạnh	bình định
 toàn thắng	gia lộc	hải dương
@@ -3317,7 +3317,7 @@ hoằng tân	hoằng hóa	thanh hóa
 phú thọ hòa	tân phú	hồ chí minh
 trần hưng đạo	hoàn kiếm	hà nội
 bình long	hòa an	cao bằng
-phường 07|P7|phường 7	tân bình	hồ chí minh
+phường 07|P7|phường 7	tân bình|TB	hồ chí minh
 ngũ lạc	duyên hải	trà vinh
 thiệu tân	thiệu hóa	thanh hóa
 tô hạp	khánh sơn	khánh hòa
@@ -4400,7 +4400,7 @@ thuần lộc	hậu lộc	thanh hóa
 bình tân	buôn hồ	đắk lắk
 hồng phong	chương mỹ	hà nội
 pá lông	thuận châu	sơn la
-phường 10|P10|phường 10	tân bình	hồ chí minh
+phường 10|P10|phường 10	tân bình|TB	hồ chí minh
 thanh quang	nam sách	hải dương
 đức ninh đông	đồng hới	quảng bình
 đông thọ	thanh hóa	thanh hóa
@@ -4843,7 +4843,7 @@ an bình a	hồng ngự	đồng tháp
 tân đức	việt trì	phú thọ
 sơn phú	giồng trôm	bến tre
 quang vinh	biên hòa	đồng nai
-phường 14|P14|phường 14	tân bình	hồ chí minh
+phường 14|P14|phường 14	tân bình|TB	hồ chí minh
 phú an	phú vang	thừa thiên huế
 đổng quốc bình	ngô quyền	hải phòng
 phú lương	lạc sơn	hòa bình
@@ -7114,7 +7114,7 @@ kiên mộc	đình lập	lạng sơn
 ya ly	sa thầy	kon tum
 cần nông	thông nông	cao bằng
 hợp thành	sơn dương	tuyên quang
-phường 11|P11|phường 11	tân bình	hồ chí minh
+phường 11|P11|phường 11	tân bình|TB	hồ chí minh
 ngọc động	thông nông	cao bằng
 thống nhất	hoành bồ	quảng ninh
 biển động	lục ngạn	bắc giang
@@ -7140,7 +7140,7 @@ an vĩnh	lý sơn	quảng ngãi
 thụy phương	từ liêm|bắc từ liêm	hà nội
 trung ngãi	vũng liêm	vĩnh long
 nậm nhùn	nậm nhùn	lai châu
-phường 01|P1|phường 1	tân bình	hồ chí minh
+phường 01|P1|phường 1	tân bình|TB	hồ chí minh
 khánh thành	yên khánh	ninh bình
 uyên hưng	tân uyên	bình dương
 trà lãnh	tây trà	quảng ngãi
@@ -7405,7 +7405,7 @@ quơn long	chợ gạo	tiền giang
 đông quí	tiền hải	thái bình
 cát tường	phù cát	bình định
 hòa hiệp	tân biên	tây ninh
-phường 02|P2|phường 2	tân bình	hồ chí minh
+phường 02|P2|phường 2	tân bình|TB	hồ chí minh
 ea khal	ea h'leo	đắk lắk
 kỳ lạc	kỳ anh	hà tĩnh
 vĩnh trung	nha trang	khánh hòa
@@ -7483,7 +7483,7 @@ phường 7|P7|phường 7	vũng tàu	bà rịa vũng tàu|bà rịa|vũng tàu
 yên phú	lạc sơn	hòa bình
 thiệu giang	thiệu hóa	thanh hóa
 chư jôr	chư păh	gia lai
-phường 08|P8|phường 8	tân bình	hồ chí minh
+phường 08|P8|phường 8	tân bình|TB	hồ chí minh
 tân lập	thủ thừa	long an
 ân đức	hoài ân	bình định
 hà đông	đăk đoa	gia lai
@@ -8982,7 +8982,7 @@ bà triệu	nam định	nam định
 nguyên xá	vũ thư	thái bình
 h bông	chư sê	gia lai
 phú hiệp	tam nông	đồng tháp
-phường 06|P6|phường 6	tân bình	hồ chí minh
+phường 06|P6|phường 6	tân bình|TB	hồ chí minh
 sông lô	việt trì	phú thọ
 phong phú	tân lạc	hòa bình
 dĩnh trì	bắc giang	bắc giang
@@ -10026,7 +10026,7 @@ diễn thọ	diễn châu	nghệ an
 hùng việt	tràng định	lạng sơn
 kim đính	kim thành	hải dương
 bình thạnh	trảng bàng	tây ninh
-phường 12|P12|phường 12	tân bình	hồ chí minh
+phường 12|P12|phường 12	tân bình|TB	hồ chí minh
 phường 3|P3|phường 3	trà vinh	trà vinh
 phủ lý	phú lương	thái nguyên
 quới an	vũng liêm	vĩnh long
@@ -10290,12 +10290,12 @@ cự đồng	thanh sơn	phú thọ
 cốc pài	xín mần	hà giang
 bạch hạc	việt trì	phú thọ
 xuân áng	hạ hòa	phú thọ
-phường 15|P15|phường 15	tân bình	hồ chí minh
+phường 15|P15|phường 15	tân bình|TB	hồ chí minh
 quảng bị	chương mỹ	hà nội
 yên phú	bắc mê	hà giang
 tân hưng	bà rịa	bà rịa vũng tàu|bà rịa|vũng tàu
 nà hỳ	nậm pồ	điện biên
-phường 13|P13|phường 13	tân bình	hồ chí minh
+phường 13|P13|phường 13	tân bình|TB	hồ chí minh
 nậm pung	bát xát	lào cai
 bắc lũng	lục nam	bắc giang
 kông htok	chư sê	gia lai
@@ -10410,7 +10410,7 @@ vạn mai	mai châu	hòa bình
 an lập	dầu tiếng	bình dương
 đại lãnh	vạn ninh	khánh hòa
 minh sơn	ngọc lặc	thanh hóa
-phường 04|P4|phường 4	tân bình	hồ chí minh
+phường 04|P4|phường 4	tân bình|TB	hồ chí minh
 toàn thắng	kim động	hưng yên
 tả ván	quản bạ	hà giang
 song pe	bắc yên	sơn la
@@ -10479,7 +10479,7 @@ trường thành	an lão	hải phòng
 hữu vinh	yên minh	hà giang
 vinh quang	chiêm hóa	tuyên quang
 phổ cường	đức phổ	quảng ngãi
-phường 09|P9|phường 9	tân bình	hồ chí minh
+phường 09|P9|phường 9	tân bình|TB	hồ chí minh
 hòa lạc	phú tân	an giang
 tân lợi	buôn ma thuột	đắk lắk
 như thụy	sông lô	vĩnh phúc
